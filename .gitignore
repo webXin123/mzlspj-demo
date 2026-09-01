@@ -25,14 +25,7 @@ yarn-error.log*
 奖卡图片/
 data/
 
-# vercel leftovers
-.vercelignore
-
-# vercel
-.vercel
-
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-.vercel
 .env*
