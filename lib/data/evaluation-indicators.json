@@ -1,0 +1,131 @@
+[
+  {
+    "level1": "卫生",
+    "level2": "环境卫生",
+    "items": [
+      { "id": "hy-1", "name": "地面有纸屑、明显污渍或灰尘", "maxScore": 2, "penalty": -1 },
+      { "id": "hy-2", "name": "黑板不整洁、粉笔槽有积灰", "maxScore": 2, "penalty": -1 },
+      { "id": "hy-3", "name": "教室版面不整齐或存在明显破损", "maxScore": 1, "penalty": -1 }
+    ]
+  },
+  {
+    "level1": "卫生",
+    "level2": "物品摆放",
+    "items": [
+      { "id": "hy-4", "name": "桌椅摆放不整齐、桌面物品杂乱", "maxScore": 2, "penalty": -1 },
+      { "id": "hy-5", "name": "作业柜内物品摆放不整齐", "maxScore": 1, "penalty": -1 },
+      { "id": "hy-6", "name": "卫生工具未归位、垃圾未及时清倒", "maxScore": 2, "penalty": -1 }
+    ]
+  },
+  {
+    "level1": "课间文明休息",
+    "level2": "行为安全",
+    "items": [
+      { "id": "jj-1", "name": "教室、走廊、楼梯间追逐打闹", "maxScore": 3, "penalty": -2 },
+      { "id": "jj-2", "name": "上下楼梯未靠右行走", "maxScore": 3, "penalty": -1 },
+      { "id": "jj-3", "name": "上下楼梯拥挤、推搡", "maxScore": 3, "penalty": -2 },
+      { "id": "jj-4", "name": "进行危险游戏", "maxScore": 3, "penalty": -2 }
+    ]
+  },
+  {
+    "level1": "课间文明休息",
+    "level2": "文明秩序",
+    "items": [
+      { "id": "jj-5", "name": "大声喧哗、尖叫起哄", "maxScore": 3, "penalty": -1 }
+    ]
+  },
+  {
+    "level1": "课间文明休息",
+    "level2": "文明礼仪",
+    "items": [
+      { "id": "jj-6", "name": "说脏话、粗话或不友好相处", "maxScore": 1, "penalty": -1 }
+    ]
+  },
+  {
+    "level1": "路队",
+    "level2": "队伍秩序",
+    "items": [
+      { "id": "ld-1", "name": "进出场队伍不安静、不整齐", "maxScore": 3, "penalty": -1 },
+      { "id": "ld-3", "name": "队伍间距不适当", "maxScore": 3, "penalty": -1 },
+      { "id": "ld-4", "name": "行进过程中交头接耳", "maxScore": 3, "penalty": -1 },
+      { "id": "ld-5", "name": "行进过程中打闹", "maxScore": 3, "penalty": -2 }
+    ]
+  },
+  {
+    "level1": "路队",
+    "level2": "队伍管理",
+    "items": [
+      { "id": "ld-2", "name": "班主任未跟随学生队伍", "maxScore": 2, "penalty": -1 }
+    ]
+  },
+  {
+    "level1": "路队",
+    "level2": "行进规范",
+    "items": [
+      { "id": "ld-6", "name": "未按指定路线行走", "maxScore": 2, "penalty": -1 }
+    ]
+  },
+  {
+    "level1": "礼仪形象",
+    "level2": "仪容仪表",
+    "items": [
+      { "id": "ly-1", "name": "未按要求穿着校服", "maxScore": 3, "penalty": -1 },
+      { "id": "ly-2", "name": "红领巾佩戴不规范", "maxScore": 3, "penalty": -1 },
+      { "id": "ly-3", "name": "个人卫生不符合要求", "maxScore": 1, "penalty": -1 },
+      { "id": "ly-4", "name": "发型不得体", "maxScore": 1, "penalty": -1 }
+    ]
+  },
+  {
+    "level1": "礼仪形象",
+    "level2": "文明礼仪",
+    "items": [
+      { "id": "ly-5", "name": "遇到老师、来宾未主动问好", "maxScore": 1, "penalty": -1 }
+    ]
+  },
+  {
+    "level1": "早操",
+    "level2": "做操规范",
+    "items": [
+      { "id": "zc-1", "name": "动作不整齐、不规范、不到位", "maxScore": 2, "penalty": -1 }
+    ]
+  },
+  {
+    "level1": "早操",
+    "level2": "做操纪律",
+    "items": [
+      { "id": "zc-2", "name": "做操过程中交头接耳、聊天", "maxScore": 3, "penalty": -1 }
+    ]
+  },
+  {
+    "level1": "早操",
+    "level2": "精神面貌",
+    "items": [
+      { "id": "zc-3", "name": "班级整体精神面貌不佳", "maxScore": 2, "penalty": -1 }
+    ]
+  },
+  {
+    "level1": "早操",
+    "level2": "进退场秩序",
+    "items": [
+      { "id": "zc-4", "name": "进退场队伍不整齐", "maxScore": 3, "penalty": -1 },
+      { "id": "zc-5", "name": "行进过程中奔跑、打闹", "maxScore": 3, "penalty": -2 },
+      { "id": "zc-6", "name": "行进过程中交头接耳", "maxScore": 3, "penalty": -1 }
+    ]
+  },
+  {
+    "level1": "午休、午会",
+    "level2": "午休管理",
+    "items": [
+      { "id": "wx-1", "name": "午休期间教室内不安静", "maxScore": 5, "penalty": -1 },
+      { "id": "wx-2", "name": "看班教师未做好午休管理", "maxScore": 5, "penalty": -2 }
+    ]
+  },
+  {
+    "level1": "午休、午会",
+    "level2": "午会管理",
+    "items": [
+      { "id": "wx-3", "name": "未落实午会主题", "maxScore": 5, "penalty": -2 },
+      { "id": "wx-4", "name": "班主任未进班组织管理", "maxScore": 5, "penalty": -2 }
+    ]
+  }
+]
